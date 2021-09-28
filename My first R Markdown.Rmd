@@ -28,3 +28,18 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+# Addtional Text
+
+### List
+ - testing  
+ - 1  
+ - 2  
+ - 3  
+ 
+~~Strikethrough~~
+ 
+
+ 
+[Find it for your self](google.com)
+ 
